@@ -1,6 +1,6 @@
 ---
 ### PROJET-8
-### A Big Data project on AWS to help a very young AgriTech start-up, named "Fruits!". 
+### A Big Data project on AWS to help a very young AgriTech start-up, called "Fruits!". 
 ---
 
 Our start-up Fruits takes place in the [_AgriTech de France_](https://www.gouvernement.fr/actualite/la-french-agritech-au-service-de-l-innovation-agricole) and seeks to offer innovative solutions for fruit harvesting. The goal is to provide to the general public a mobile application that would allow users to take a picture of a fruit and obtain information about this fruit. Our mission is to implement a first version of the fruit image classification engine and to build in a Big Data environment a first data processing chain which will include preprocessing and a dimensionality reduction step. For this, we used [Amazon Web Services (AWS)](https://aws.amazon.com) cloud tools to build a first data processing chain.
@@ -53,4 +53,22 @@ We need to take into account
 
 ---
 
+### Data source:
+
 https://www.kaggle.com/moltean/fruits
+
+| DATA train  |   |
+|---|---|
+|  number of images |   67 692 |
+
+| DATA test  |   |
+|---|---|
+|  number of images |   22 688 |
+
+There are 131 classes. Each class is either a fruit or a vegetable.
+
+---
+
+The notebook contains a first preprocessing. The feaures of images are extracted using ResNet50 model. We are not required to perform a modelisation for now.
+
+
