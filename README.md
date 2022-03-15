@@ -69,6 +69,4 @@ There are 131 classes. Each class is either a fruit or a vegetable.
 
 ---
 
-The notebook contains a first preprocessing. The feaures of images are extracted using ResNet50 model. We are not required to perform a modelisation for now.
-
-
+The notebook contains first steps of preprocessing. The feaures of images are extracted using ResNet50 model. We are not required to perform a modelisation for now.
