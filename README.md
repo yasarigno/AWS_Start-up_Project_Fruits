@@ -9,9 +9,9 @@ Our start-up Fruits takes place in the [_AgriTech de France_](https://www.gouver
 <img align="center" src="support\fruits.png" style="width: 300px" />
 </p>
 
-The important thing in this project is to set up the first processing bricks that will be used when it is necessary to scale up in terms of data volume! We need to take into account the fact that the volume of data will increase very quickly after the delivery of this project. We will therefore develop scripts in [_PySpark_](https://spark.apache.org/docs/latest/api/python/) and use, for example, the AWS cloud to take advantage of a Big Data architecture (EC2, S3, IAM), based on an EC2 Linux server.
+The important thing in this project is to set up the first processing bricks that will be used when it is necessary to scale up in terms of data volume! We need to take into account the fact that the volume of data will increase very quickly after the delivery of this project. We will therefore develop scripts in [PySpark](https://spark.apache.org/docs/latest/api/python/) and use, for example, the AWS cloud to take advantage of a Big Data architecture (EC2, S3, IAM), based on an EC2 Linux server.
 
-We will use [DataBricks](https://databricks.com) which is a very useful and easy-to-use platform. It is compatible with AWS (as well as with [_Google Cloud_](https://cloud.google.com) and [_Microsoft Azure_](https://azure.microsoft.com/fr-fr/)).
+We will use [DataBricks](https://databricks.com) which is a very useful and easy-to-use platform. It is compatible with AWS (as well as with [Google Cloud](https://cloud.google.com) and [Microsoft Azure](https://azure.microsoft.com/fr-fr/)).
 
 <p align="center">
   <img align="center" src="support\aws2.png" style="width: 150px" />
