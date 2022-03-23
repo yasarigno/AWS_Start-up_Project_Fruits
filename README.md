@@ -1,6 +1,9 @@
 ---
 ### PROJET-8
 ### A Big Data project on AWS to assist a very young AgriTech start-up, called "Fruits!". 
+
+[Click here](https://yasarigno.github.io/folder/P8_support.pdf) for the presentation file of the project. 
+
 ---
 
 Our start-up Fruits takes place in the [_AgriTech de France_](https://www.gouvernement.fr/actualite/la-french-agritech-au-service-de-l-innovation-agricole) and seeks to offer innovative solutions for fruit harvesting. The goal is to provide to the general public a mobile application that would allow users to take a picture of a fruit and obtain information about this fruit. Our mission is to implement a first version of the fruit image classification engine and to build in a Big Data environment a first data processing chain which will include preprocessing and a dimensionality reduction step. For this, we used [Amazon Web Services (AWS)](https://aws.amazon.com) cloud tools to build a first data processing chain.
