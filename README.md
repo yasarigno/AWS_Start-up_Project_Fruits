@@ -1,5 +1,5 @@
 ---
-### PROJET-8
+
 ### A Big Data project on AWS to assist a very young AgriTech start-up, called "Fruits!". 
 
 [Click here](https://yasarigno.github.io/folder/P8_support.pdf) for the presentation file of the project. 
