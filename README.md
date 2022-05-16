@@ -2,7 +2,7 @@
 
 ### A Big Data project on AWS to assist a very young AgriTech start-up, called "Fruits!". 
 
-[Click here](https://yasarigno.github.io/folder/P8_support.pdf) for the presentation file of the project. 
+[Click here](https://yasarigno.github.io/folder/P8_support.pdf) for the presentation file of the project.
 
 ---
 
@@ -73,3 +73,5 @@ There are 131 classes. Each class is either a fruit or a vegetable.
 ---
 
 The notebook contains first steps of preprocessing. The feaures of images are extracted using ResNet50 model. We are not required to perform a modelisation for now.
+
+[<img alt="PDF" width="400px" src="https://yasarigno.github.io/images/P8_image.jpeg" />](https://yasarigno.github.io/folder/P8_support.pdf)
